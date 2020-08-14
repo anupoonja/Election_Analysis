@@ -48,7 +48,7 @@ These county names are stored in a list of county names *county_list*.
 
 - County vote is calculated by incrementing the vote against the county whenever the county name is encountered.
 
-``` county_votes[county_name] += 1 ```
+  ``` county_votes[county_name] += 1 ```
 
 - Percentage of total votes in the county is calulated using the formula :
 
